@@ -27,9 +27,8 @@ The entire source code, as well as the kernel image, can be found at the followi
 2. **Access the Server**  
    - Open the server at:  
      ```
-     http://ip_addr_qemu:8080
-     ```
-   - If it doesn’t work, try using the **IP address of the host computer** instead.  
+     http://ip_addr_host:8888
+     ```  
 
 3. **Simulate GPS Data**  
    - In another terminal, run:  
