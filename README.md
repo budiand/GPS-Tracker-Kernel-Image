@@ -35,4 +35,6 @@ The entire source code, as well as the kernel image, can be found at the followi
      ```sh
      python3 gps-emu.py
      ```
-   - The server should display a **hardcoded location** along with the **real UTC time**. 
+   - The server should display a **hardcoded location** along with the **real UTC time**.
+   - You should be able to see something like this:![image](https://github.com/user-attachments/assets/073e507f-eb69-46b4-9d1a-a81f9a199e4d)
+
